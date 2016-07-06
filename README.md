@@ -1,1 +1,1 @@
-# It is the treat to learn Angularjs2
+# It is the travel to learn Angularjs2
